@@ -108,3 +108,15 @@ body {
     width: 200px;
     height: 200px;
 }
+
+.artifacts{
+    border: 2px solid #333;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.artifacts img{
+    width: 200px;
+    height: 300px;
+}
